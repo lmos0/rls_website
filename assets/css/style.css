@@ -461,7 +461,7 @@ h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("/assets/img/bg_solarpanels.jpeg") top left;
+  background: url("/assets/img/bg_solarpanels.jpg") top left; 
   background-size: cover;
   position: relative;
 }
