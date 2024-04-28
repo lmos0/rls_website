@@ -1828,7 +1828,13 @@ section {
 
 .img-logo{
   height: 8%;
-  width: 10%;
+  width: 8%;
   border-radius: 50%;
   border: 1px solid #4F6F52;
+}
+
+.holtwood-one-sc-regular {
+  font-family: "Holtwood One SC", serif;
+  font-weight: 200;
+  font-style: normal;
 }
