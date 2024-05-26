@@ -832,7 +832,13 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #4F6F52;
+  background-color: #e61414;
+}
+.skills .progress-bar2 {
+  width: 1px;
+  height: 10px;
+  transition: 0.9s;
+  background-color: green;
 }
 
 /*--------------------------------------------------------------
