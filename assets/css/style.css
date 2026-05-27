@@ -83,6 +83,9 @@ button {
 }
 
 .topbar a {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   color: var(--white);
 }
 
@@ -106,6 +109,12 @@ button {
 .social-icon {
   width: 15px;
   height: 15px;
+  fill: currentColor;
+}
+
+.contact-icon {
+  width: 14px;
+  height: 14px;
   fill: currentColor;
 }
 
@@ -538,8 +547,13 @@ button {
   height: 56px;
   border-radius: 999px;
   background: #25d366;
-  font-size: 30px;
   transition: transform 180ms ease;
+}
+
+.whatsapp-float svg {
+  width: 30px;
+  height: 30px;
+  fill: currentColor;
 }
 
 .whatsapp-float:hover {
